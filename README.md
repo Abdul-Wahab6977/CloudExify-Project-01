@@ -1,10 +1,10 @@
 # Abdul Wahab — Personal Portfolio
 
-CloudExify Summer Internship 2026 · Full Stack Web Development · Month 1 · Project 1
+CloudExify Summer Internship 2026 · Full Stack Web Development · Project 1
 
 **Live URL:** _add your Vercel link here after deploying_
 **Name:** Abdul Wahab
-**Registration Number:** _add here_
+**Registration Number:** FA23-BSE-031
 **Build Track:** Premium Tech — dark-first (slate black + emerald/cyber-blue), light theme available
 **Signature Feature(s):**
 - Light/dark theme switcher (dark by default, saved with `localStorage`)
@@ -21,7 +21,7 @@ portfolio/
 ├── js/
 │   └── script.js
 ├── assets/
-│   └── resume.pdf   ← add your real résumé here (see assets/README-resume.txt)
+│   └── resume.pdf   
 └── README.md
 ```
 
